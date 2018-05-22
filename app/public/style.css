@@ -1,0 +1,32 @@
+body{
+    background-image: url(http://www.powerthoughtsmeditationclub.com/wp-content/uploads/2015/10/bigstock-Happy-group-of-friends-family-43459618.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    background-color: darkgoldenrod;
+    color: white;
+    opacity: .75;
+    margin-top: 20px;
+}
+
+#submit {
+    background: darkgoldenrod;
+}
+
+#jumbo_h2 {
+    color: white;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}
+
+.panel-title {
+    color: darkgoldenrod;
+}
